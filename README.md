@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juyoung0620)](https://solved.ac/juyoung0620)
+
+
 <!--
 **juyounginpark/juyounginpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

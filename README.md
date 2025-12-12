@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/juyoung0620">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Unity+Creator;Algorithm+%26+Logic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Juyoung;Game+Developer+%F0%9F%8E%AE;Unity+Creator" alt="Typing SVG" />
   </a>
 
   <br><br>

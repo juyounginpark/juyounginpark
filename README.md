@@ -9,7 +9,7 @@
   <b>Building Interactive Worlds with Code.</b><br><br>
   
   <a href="https://solved.ac/juyoung0620">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung0620" alt="Solved.ac Profile" height="150">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung0620" alt="Solved.ac Profile" height="140">
   </a>
 
   <br><br>
@@ -21,7 +21,6 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=juyoung0620&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyoung0620&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://img.shields.io/badge/Level%20Up-Ready%20to%20Code-blueviolet?style=social" />
 
 </div>
